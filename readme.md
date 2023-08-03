@@ -15,3 +15,12 @@ En escuelas y universidades, es común encontrar dificultades al distinguir entr
   
 ## *Rendimiendo*
 Los microcontroladores se destacan por su bajo consumo de energía. Dado que están enfocados en tareas específicas y no requieren la misma potencia de cálculo que los microprocesadores, consumen menos energía para llevar a cabo su función. Esto es especialmente valioso en implementaciones donde se busca una mayor eficiencia energética. En contraste, los microprocesadores con mayor capacidad computacional pueden consumir más energía, lo que puede requerir una fuente de alimentación externa o una batería más grande para mantener su funcionamiento durante largos períodos de tiempo.
+
+# ¿Qué es un microcontrolador?
+![Figura 1](Folder/SE1/img/MC.jpg)
+*Figura 1. Estructura del MicroControlador
+
+Un microcontrolador (a veces llamado MCU o unidad de microcontrolador) es un solo integrado circuito (IC) que se utiliza normalmente para una aplicación específica y está diseñado para implementar determinadas tareas. Los productos y dispositivos que deben controlarse automáticamente en determinadas situaciones, como electrodomésticos, herramientas eléctricas, sistemas de control de motores de automóviles y computadoras, son excelentes ejemplos, pero los microcontroladores van mucho más allá de estas aplicaciones.
+
+En términos fundamentales, un microcontrolador desempeña la función de recopilar entradas, procesar la información y actuar en consecuencia según los datos obtenidos. Estos dispositivos suelen operar a velocidades más bajas, típicamente en el rango de 1MHz a 200 MHz, y su diseño se enfoca en minimizar el consumo de energía, ya que se integran dentro de otros dispositivos que pueden requerir una mayor demanda energética en otras áreas.
+
