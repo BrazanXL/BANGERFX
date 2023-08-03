@@ -1,0 +1,16 @@
+*{
+    background: wheat;
+    text-rendering: optimizeSpeed;
+}
+
+section{
+    text-align: center;
+    font-family: fantasy;
+}
+
+h1{
+    font-size: 45px;
+}
+h3{
+    font-family: cursive;
+}
