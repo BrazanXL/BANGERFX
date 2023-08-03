@@ -35,11 +35,11 @@ Un microprocesador es un componente esencial en la electrónica de una computado
 El papel de los microprocesadores es muy amplio y abarca desde el control de ascensores hasta la búsqueda en internet. Cualquier acción realizada por una computadora se describe mediante instrucciones de programas de computadora, y los microprocesadores tienen la capacidad de ejecutar estas instrucciones millones de veces por segundo, lo que les otorga un rendimiento sorprendente en términos de velocidad y capacidad de cálculo.
 
 # Diferencias Encontradas
-|| *`Microprocesador`*  | *`Microcontrolador`* ||
-|| :---: | :---: ||
-|| El microprocesador actúa como el corazón del sistema informático.	El microcontrolador actúa como el corazón del sistema integrado. | Es un procesador en el que la memoria y el componente de salida de *`E/S`* están conectados externamente.	Es un dispositivo de control en el que la memoria y el componente de salida de *`E/S`* están presentes internamente.  ||
-|| Dado que la memoria y la salida de E / S deben conectarse externamente. Por tanto, el circuito es más complejo.  | Dado que la memoria en el chip y el componente de salida de E / S están disponibles. Por tanto, el circuito es menos complejo. ||
-|| No se puede utilizar en un sistema compacto. Por tanto, el microprocesador es ineficaz. | Se puede utilizar en un sistema compacto. Por lo tanto, el microcontrolador es más eficiente. ||
-|| El microprocesador tiene menos registros. Por lo tanto, la mayoría de las operaciones se basan en la memoria. | El microcontrolador tiene más registros. Por tanto, un programa es más fácil de escribir. ||
-|| Un microprocesador que tiene una bandera de estado cero. | Un microcontrolador no tiene bandera cero. ||
-|| Se utiliza principalmente en ordenadores personales. | Se utiliza principalmente en lavadoras, acondicionadores de aire, etc. || 
+| *`Microprocesador`*  | *`Microcontrolador`* |
+| :---: | :---: |
+| El microprocesador actúa como el corazón del sistema informático.	El microcontrolador actúa como el corazón del sistema integrado. | Es un procesador en el que la memoria y el componente de salida de *`E/S`* están conectados externamente.	Es un dispositivo de control en el que la memoria y el componente de salida de *`E/S`* están presentes internamente.  |
+| Dado que la memoria y la salida de E / S deben conectarse externamente. Por tanto, el circuito es más complejo.  | Dado que la memoria en el chip y el componente de salida de E / S están disponibles. Por tanto, el circuito es menos complejo. |
+| No se puede utilizar en un sistema compacto. Por tanto, el microprocesador es ineficaz. | Se puede utilizar en un sistema compacto. Por lo tanto, el microcontrolador es más eficiente. |
+| El microprocesador tiene menos registros. Por lo tanto, la mayoría de las operaciones se basan en la memoria. | El microcontrolador tiene más registros. Por tanto, un programa es más fácil de escribir. |
+| Un microprocesador que tiene una bandera de estado cero. | Un microcontrolador no tiene bandera cero. |
+| Se utiliza principalmente en ordenadores personales. | Se utiliza principalmente en lavadoras, acondicionadores de aire, etc. |
