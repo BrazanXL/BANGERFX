@@ -4,8 +4,8 @@ En escuelas y universidades, es común encontrar dificultades al distinguir entr
 
 ## Puntos clave
 1. [Costo Base](#coste)
-2. [Velocidad de Reloj](#Velocidad)
-3. [Consumo de Energetico](#Rendimiendo)
+2. [Velocidad de Reloj](#velocidad)
+3. [Consumo de Energetico](#rendimiendo)
 
 ## *Coste...*
  Los microcontroladores suelen ser más económicos en comparación con los microprocesadores. Los microprocesadores están diseñados para dispositivos más costosos y son más complejos, destinados a realizar diversas tareas computacionales. Por otro lado, los microcontroladores cumplen funciones dedicadas y son programados específicamente para una aplicación en particular. Al tener todas las funciones y componentes necesarios internamente, se pueden cargar con el código correspondiente para ejecutar la tarea requerida.
