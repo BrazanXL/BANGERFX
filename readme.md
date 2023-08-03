@@ -18,6 +18,7 @@ Los microcontroladores se destacan por su bajo consumo de energía. Dado que est
 
 # ¿Qué es un microcontrolador?
 ![Figura 1](Folder/SE1/img/MC.jpg)
+
 *Figura 1. Estructura del MicroControlador [Fuente: shunlongwei.com](https://www.shunlongwei.com/wp-content/uploads/2021/05/20210522_60a885a4248bf.jpg)*
 
 Un microcontrolador (a veces llamado MCU o unidad de microcontrolador) es un solo integrado circuito (IC) que se utiliza normalmente para una aplicación específica y está diseñado para implementar determinadas tareas. Los productos y dispositivos que deben controlarse automáticamente en determinadas situaciones, como electrodomésticos, herramientas eléctricas, sistemas de control de motores de automóviles y computadoras, son excelentes ejemplos, pero los microcontroladores van mucho más allá de estas aplicaciones.
@@ -26,6 +27,7 @@ En términos fundamentales, un microcontrolador desempeña la función de recopi
 
 # ¿Qué es el microprocesador?
 ![Figura 2](Folder/SE1/img/MP.jpg)
+
 *Figura 2. Estructura del MicroControlador [Fuente: shunlongwei.com](https://www.shunlongwei.com/wp-content/uploads/2021/05/20210522_60a885a5696f7.jpg)*
 
 Un microprocesador es un componente esencial en la electrónica de una computadora, responsable de llevar a cabo sus funciones. Se trata de una unidad central de procesamiento que se encuentra en un solo chip de circuito integrado y está compuesto por millones de componentes diminutos, como transistores, resistencias y diodos, que trabajan en conjunto. A diferencia de los microprocesadores más antiguos del siglo pasado, que requerían varios chips, los actuales se han vuelto mucho más compactos y poderosos.
