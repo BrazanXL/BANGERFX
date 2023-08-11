@@ -27,6 +27,9 @@ int main() {
 }
 
 ~~~
+"Comit1"
+El codigo trata de imprimir un numero decimal
+
 
 **Ejemplo 2:**
 
