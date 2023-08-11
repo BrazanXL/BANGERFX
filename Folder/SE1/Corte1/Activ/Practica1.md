@@ -1,4 +1,4 @@
-# 1.9.1. Introducción al lenguaje C/C++ Práctica 1
+# Introducción al lenguaje C/C++ Práctica 1
 
 ## Objetivo
 
