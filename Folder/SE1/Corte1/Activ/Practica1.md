@@ -51,7 +51,7 @@ int main() {
     return 0;
 }
 ~~~
-***Comit 1:***
+***Comit 1:*** 
 Se inicializa *n1*,*n2*,*n3* como enteros.
 Para luego pedir dos numeros para *n1* y *n2*.
 teniendo estos nnumeros se prosede a una suma y se imprime el resultado como un decimal.
