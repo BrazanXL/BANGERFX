@@ -69,6 +69,8 @@ int main() {
     return 0;
 }
 ~~~
+***Comit 1:***
+Contador de numeros "Para este caso hasta 10" y muestra los pares
 
 **Ejemplo 4:**
 
