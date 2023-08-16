@@ -33,10 +33,10 @@ Hacerlo utilizando 3 bucles diferentes.
     **Utilizando un bucle for:**
 
     ~~~
-        #include <stdio.h>
+    #include <stdio.h>
 
-        int main() {
-            int n;
+    int main() {
+        int n;
         printf("Ingrese el valor de n: ");
         scanf("%d", &n);
 
