@@ -1,7 +1,9 @@
 # Introducción al lenguaje C/C++ Práctica 2
+
 <h4 align="center">
 :construction: Practica en Desarrollo :construction:
 </h4>
+
 ## Objetivo
 
 Introducir al estudiante en la sintaxis del lenguaje C, a través de la implementación de programas básicos.
