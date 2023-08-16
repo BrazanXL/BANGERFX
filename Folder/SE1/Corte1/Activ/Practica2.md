@@ -20,11 +20,11 @@ Introducir al estudiante en la sintaxis del lenguaje C, a través de la implemen
 
 1. En la expresión: *for(i=1; i==4; i+=2);* ¿cuántas veces se evalúa la condición?
 
-En la expresión `for(i=1; i==4; i+=2);`, la condición `i==4` se evalúa solo una vez, al inicio del bucle. 
+    En la expresión `for(i=1; i==4; i+=2);`, la condición `i==4` se evalúa solo una vez, al inicio del bucle. 
 
-El bucle `for` se ejecutará siempre que la condición sea verdadera. Sin embargo, en este caso, la condición `i==4` es falsa desde el principio, ya que `i` se inicializa con el valor `1`. Por lo tanto, el bucle no se ejecutará en absoluto.
+    El bucle `for` se ejecutará siempre que la condición sea verdadera. Sin embargo, en este caso, la condición `i==4` es falsa desde el principio, ya que `i` se inicializa con el valor `1`. Por lo tanto, el bucle no se ejecutará en absoluto.
 
-Un bucle `for` consta de tres partes: inicialización, condición y expresión de incremento/decremento. En tu caso, la condición no se cumple desde el principio, por lo que el bucle no se ejecutará y el flujo del programa continuará después del bucle sin ninguna iteración.
+    Un bucle `for` consta de tres partes: inicialización, condición y expresión de incremento/decremento. En tu caso, la condición no se cumple desde el principio, por lo que el bucle no se ejecutará y el flujo del programa continuará después del bucle sin ninguna iteración.
 
 
 1. Incrementar una variable entera j desde 0 hasta n y luego mostrar el resultado.
