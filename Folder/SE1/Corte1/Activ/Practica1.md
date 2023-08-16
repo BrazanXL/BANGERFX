@@ -1,7 +1,7 @@
 # Introducción al lenguaje C/C++ Práctica 1
 
 <h4 align="center">
-:construction: Practica en Desarrollo :construction:
+:construction: Practica Finalizada :construction:
 </h4>
 
 ## Objetivo
