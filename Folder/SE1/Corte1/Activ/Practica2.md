@@ -96,6 +96,26 @@ Hacerlo utilizando 3 bucles diferentes.
 
 3. Leer sucesivamente del teclado hasta que aparezca un número comprendido entre 1 y 5. Desarrollar el algoritmo usando la función *scanf()*
 ~~~
+#include <stdio.h>
+
+int main() {
+    int numero;
+
+    do {
+        printf("Ingrese un número entre 1 y 5: ");
+        scanf("%d", &numero);
+
+        if (numero >= 1 && numero <= 5) {
+            printf("Número válido: %d\n", numero);
+            break; // Sale del bucle cuando se ingresa un número válido
+        } else {
+            printf("Número fuera del rango. Intente nuevamente.\n");
+        }
+    } while (1);
+
+    return 0;
+}
+
 ~~~
 
 4. Consulte cómo usar la función *getchar()*. Resuelva el punto anterior usando esta función. 
