@@ -30,7 +30,8 @@ Introducir al estudiante en la sintaxis del lenguaje C, a través de la implemen
 1. Incrementar una variable entera j desde 0 hasta n y luego mostrar el resultado.
 Hacerlo utilizando 3 bucles diferentes. 
 
-### Utilizando un bucle for:
+**Utilizando un bucle for:**
+
 ~~~
 #include <stdio.h>
 
@@ -48,7 +49,7 @@ int main() {
 }
 ~~~
 
-### Utilizando un bucle while:
+**Utilizando un bucle while:**
 
 ~~~
 #include <stdio.h>
@@ -70,7 +71,7 @@ int main() {
 
 ~~~
 
-### Utilizando un bucle do-while:
+**Utilizando un bucle do-while:**
 
 ~~~
 #include <stdio.h>
