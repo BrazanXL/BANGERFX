@@ -30,68 +30,68 @@ Introducir al estudiante en la sintaxis del lenguaje C, a través de la implemen
 2. Incrementar una variable entera j desde 0 hasta n y luego mostrar el resultado.
 Hacerlo utilizando 3 bucles diferentes. 
 
-**Utilizando un bucle for:**
+    **Utilizando un bucle for:**
 
-~~~
-#include <stdio.h>
+        ~~~
+            #include <stdio.h>
 
-int main() {
-    int n;
-    printf("Ingrese el valor de n: ");
-    scanf("%d", &n);
+            int main() {
+                int n;
+            printf("Ingrese el valor de n: ");
+            scanf("%d", &n);
 
-    printf("Utilizando el bucle for:\n");
-    for (int j = 0; j <= n; j++) {
-        printf("%d ", j);
-    }
+            printf("Utilizando el bucle for:\n");
+            for (int j = 0; j <= n; j++) {
+                printf("%d ", j);
+            }
 
-    return 0;
-}
-~~~
+            return 0;
+        }
+        ~~~
 
-**Utilizando un bucle while:**
+    **Utilizando un bucle while:**
 
-~~~
-#include <stdio.h>
+        ~~~
+        #include <stdio.h>
 
-int main() {
-    int n;
-    printf("Ingrese el valor de n: ");
-    scanf("%d", &n);
+        int main() {
+            int n;
+            printf("Ingrese el valor de n: ");
+            scanf("%d", &n);
 
-    printf("Utilizando el bucle while:\n");
-    int j = 0;
-    while (j <= n) {
-        printf("%d ", j);
-        j++;
-    }
+            printf("Utilizando el bucle while:\n");
+            int j = 0;
+            while (j <= n) {
+                printf("%d ", j);
+                j++;
+            }
 
-    return 0;
-}
+            return 0;
+        }
 
-~~~
+        ~~~
 
-**Utilizando un bucle do-while:**
+    **Utilizando un bucle do-while:**
 
-~~~
-#include <stdio.h>
+        ~~~
+        #include <stdio.h>
 
-int main() {
-    int n;
-    printf("Ingrese el valor de n: ");
-    scanf("%d", &n);
+        int main() {
+            int n;
+            printf("Ingrese el valor de n: ");
+            scanf("%d", &n);
 
-    printf("Utilizando el bucle do-while:\n");
-    int j = 0;
-    do {
-        printf("%d ", j);
-        j++;
-    } while (j <= n);
+            printf("Utilizando el bucle do-while:\n");
+            int j = 0;
+            do {
+                printf("%d ", j);
+                j++;
+            } while (j <= n);
 
-    return 0;
-}
+            return 0;
+        }
 
-~~~
+        ~~~
 
 
 3. Leer sucesivamente del teclado hasta que aparezca un número comprendido entre 1 y 5. Desarrollar el algoritmo usando la función *scanf()*
