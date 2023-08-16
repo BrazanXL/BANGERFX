@@ -118,29 +118,29 @@ Hacerlo utilizando 3 bucles diferentes.
     ~~~
 
 4. Consulte cómo usar la función *getchar()*. Resuelva el punto anterior usando esta función. 
-~~~
-~~~
+    ~~~
+    ~~~
 
 5. Codificar en C un programa que lea 20 caracteres indique cuantas "a" se ingresaron, cuantas "e, u".
-~~~
-~~~
+    ~~~
+    ~~~
 
 6. Codificar un algoritmo en C, que imprima los números pares entre 20 y 200. El programa debe imprimir 6 números por línea separados por 4 espacios en blanco.
-~~~
-~~~
+    ~~~
+    ~~~
 
 7. Codificar un algoritmo en C, que imprima todos los números primos que hay desde 1 hasta un número x, que que se debe introducir por teclado. El programa debe poder ejecutarse mientras el usuario lo requiera y finalizará al ingresar el valor 0.
-~~~
-~~~
+    ~~~
+    ~~~
 
 8. Codificar un algoritmo en C, que imprima el mayor y el menor de una serie de 8 números que vamos introduciendo por teclado.
-~~~
-~~~
+    ~~~
+    ~~~
 
 9. Hacer un programa en C, que genere y muestre en pantalla la tabla ASCII.
-~~~
-~~~
+    ~~~
+    ~~~
 
 10. Hacer un programa que genere aleatoriamente 100 números, los almacene en un arreglo, luego ingrese un número y determine entre los números almacenados cuales son menores o iguales al número ingresado. Con los mayores calcular su sumatoria.
-~~~
-~~~
+    ~~~
+    ~~~
